@@ -1,14 +1,3 @@
-收到你的 notebook 文件：`home-credit-lgb-cat-ensemble-guo_32.ipynb`。我已经解析了里面的内容，主要包括：
-
-- 比赛任务是 **Home Credit Default Risk**
-- 使用了 **LightGBM 和 CatBoost 模型集成**
-- 进行了丰富的特征选择与重要性分析
-- 使用了分层 K 折交叉验证
-- 有提交预测结果的生成部分
-
----
-
-## ✅ 为你生成的 `README.md` 内容如下：
 
 ```markdown
 # 🏡 Home Credit Default Risk - LGBM + CatBoost Ensemble Solution
@@ -115,12 +104,3 @@ This file can be submitted directly to Kaggle.
 This project is licensed under the MIT License.
 ```
 
----
-
-是否需要我：
-
-- 帮你**自动生成 `requirements.txt`**
-- 或者将这个结构打包成一个 GitHub 模板仓库？
-- 或者把这个 README.md 内容直接嵌入到你的 `.ipynb` 最后 markdown cell 中？
-
-告诉我你想怎么用这个 README，我来继续帮你处理～
